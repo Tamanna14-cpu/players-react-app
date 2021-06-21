@@ -1,0 +1,22 @@
+.body-container{
+    display : flex;
+}
+
+.players-container{
+    width: 800px;
+    background-color: rgb(238, 236, 236);
+    border-right: 2px solid gray;
+    border-radius: 0.5rem;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.info{
+    width: 450px;
+    height: 30%;
+    background-color: rgb(238, 236, 236);
+    border-radius: 0.5rem;
+    margin: 0.5rem;
+    padding: 1rem;
+    top: 80px;
+}

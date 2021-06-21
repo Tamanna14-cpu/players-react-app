@@ -1,0 +1,10 @@
+.player{
+    
+    border-bottom: 2px solid gray;
+    padding-bottom: 5px;
+}
+
+.player-name{
+    color : crimson;
+    font-weight: 450;
+}
